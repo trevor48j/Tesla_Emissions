@@ -1,3 +1,6 @@
+# Hunter was here!
+
+
 # World Happiness Trends
 
 Have you ever thought about world happiness trends? Upon finding the data available in Kaggle.com, our team was determined to analyze World Happiness data from 2015 through 2019 to discover the key factors that inspire happiness around the globe. We wanted to know the top happiest countries and how happiness varied per region around the world. 
